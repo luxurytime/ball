@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/image.png</file>
+        <file>image/wall.jpg</file>
+        <file>image/sky.jpg</file>
+        <file>image/bounce.png</file>
+        <file>image/blue.png</file>
+        <file>image/fuchsia.png</file>
+        <file>image/fuchsia2.png</file>
+        <file>image/green.png</file>
+        <file>image/orange.png</file>
+        <file>image/mix.png</file>
+        <file>image/reflection.png</file>
+        <file>image/OutlandDirt01.png</file>
+        <file>image/OutlandSand01.png</file>
+    </qresource>
+</RCC>
